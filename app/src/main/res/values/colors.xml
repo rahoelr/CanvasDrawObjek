@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorRectangle">#324745</color>
+    <color name="colorOne">#6A4413</color>
+    <color name="colorTwo">#F5D389</color>
+    <color name="colorThree">#E33536</color>
+    <color name="colorFour">#BDB9B0</color>
+    <color name="colorFive">#BCE0EF</color>
+    <color name="colorSix">#CCD5DA</color>
+    <color name="colorBg">#B7E6FF</color>
+    <color name="colorBg2">#5CA137</color>
+</resources>
